@@ -1,6 +1,5 @@
 # app-dev
 My first repository
-# H1 
 1. Harry Potter
 2. The Hunger Games
 3. Fleabag
